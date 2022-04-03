@@ -1,4 +1,4 @@
-### Oi,sou HenrySawaya
+### Oi,sou Henry Sawaya
 
 - 🔭 Eu Atualmente trabalho com Python e VBA, Automatização de mensagem pelo WhatsApp
 - 🌱 No momento estou aprendendo Python e JavaScripts
