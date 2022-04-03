@@ -1,8 +1,7 @@
-### Oi,sou HenrySawaya 😎
+### Oi,sou HenrySawaya
 
-- 🔭 Eu ainda não estou trabalhando com programação,so fiz uma coisa aqui e ali
-- 🌱 No momento estou aprendendo Python,ta sendo bem legal
-- 😄 Ele
+- 🔭 Eu Atualmente trabalho com Python e VBA, Automatização de mensagem pelo WhatsApp
+- 🌱 No momento estou aprendendo Python e JavaScripts
 
 <div align="center">
   <a href="https://github.com/HenryS2">
